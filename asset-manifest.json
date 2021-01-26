@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/whereswaldo/static/css/main.ad8698a0.chunk.css",
+    "main.js": "/whereswaldo/static/js/main.ffe79725.chunk.js",
+    "main.js.map": "/whereswaldo/static/js/main.ffe79725.chunk.js.map",
+    "runtime-main.js": "/whereswaldo/static/js/runtime-main.a9e30585.js",
+    "runtime-main.js.map": "/whereswaldo/static/js/runtime-main.a9e30585.js.map",
+    "static/js/2.e7fc53c5.chunk.js": "/whereswaldo/static/js/2.e7fc53c5.chunk.js",
+    "static/js/2.e7fc53c5.chunk.js.map": "/whereswaldo/static/js/2.e7fc53c5.chunk.js.map",
+    "index.html": "/whereswaldo/index.html",
+    "static/css/main.ad8698a0.chunk.css.map": "/whereswaldo/static/css/main.ad8698a0.chunk.css.map",
+    "static/js/2.e7fc53c5.chunk.js.LICENSE.txt": "/whereswaldo/static/js/2.e7fc53c5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/whereswaldo/static/media/circle.0677ecfa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e30585.js",
+    "static/js/2.e7fc53c5.chunk.js",
+    "static/css/main.ad8698a0.chunk.css",
+    "static/js/main.ffe79725.chunk.js"
+  ]
+}
