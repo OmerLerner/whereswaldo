@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/whereswaldo/static/css/main.ad8698a0.chunk.css",
-    "main.js": "/whereswaldo/static/js/main.ffe79725.chunk.js",
-    "main.js.map": "/whereswaldo/static/js/main.ffe79725.chunk.js.map",
+    "main.js": "/whereswaldo/static/js/main.7375aebd.chunk.js",
+    "main.js.map": "/whereswaldo/static/js/main.7375aebd.chunk.js.map",
     "runtime-main.js": "/whereswaldo/static/js/runtime-main.a9e30585.js",
     "runtime-main.js.map": "/whereswaldo/static/js/runtime-main.a9e30585.js.map",
     "static/js/2.e7fc53c5.chunk.js": "/whereswaldo/static/js/2.e7fc53c5.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a9e30585.js",
     "static/js/2.e7fc53c5.chunk.js",
     "static/css/main.ad8698a0.chunk.css",
-    "static/js/main.ffe79725.chunk.js"
+    "static/js/main.7375aebd.chunk.js"
   ]
 }
