@@ -18,7 +18,6 @@ function Leaderboard (props){
                 })
         });
         setLeaderboard(arrayToReturn);
-        console.log(arrayToReturn);
     };
 
     useEffect(() => {

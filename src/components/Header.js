@@ -1,7 +1,8 @@
 import Stopwatch from './Stopwatch'
 
 function Header(props){
-    const {playerName,gameover,charactersToFind,stopwatchRef,handleNewGame}=props;
+    const {playerName,gameover,charactersToFind,charactersFound,stopwatchRef,handleNewGame}=props;
+    console.log(charactersToFind);
 
     return(
         <div className='headerContainer'>
@@ -26,15 +27,15 @@ function Header(props){
                 character.found ? 
                 <div className='characterHeaderIconContainer foundCharacter scale-up-hor-center'>
                     <img
-                    src={process.env.PUBLIC_URL+character.url}
+                    src={character.url}
                     alt={character.name}
-                    className='characterHeaderIcon '
+                    className='characterHeaderIcon'
                     />
                 </div>
                 :
                 <div className='characterHeaderIconContainer'>
                     <img
-                    src={process.env.PUBLIC_URL+character.url}
+                    src={character.url}
                     alt={character.name}
                     className='characterHeaderIcon'
                     />

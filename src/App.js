@@ -19,12 +19,10 @@ function App() {
     setGameBegan(false);
   }
   const getFirebaseData = async (id) =>{
-
     const data = firestore.collection('pictureData').doc(id.toString());
     await data.get().then(function(doc) {
         if (doc.exists) {
             setGameData(doc.data());
-            console.log(doc.data());
         } else {
             console.log("No such document!");
         }

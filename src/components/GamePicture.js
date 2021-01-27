@@ -3,7 +3,7 @@ function GamePicture(props){
     return(
         <div className='mainImageContainer'>
             <img 
-                    src={process.env.PUBLIC_URL+url}
+                    src={url}
                     alt={description} 
                     className='mainImage'
                     onClick={handleClick.bind(this)}
